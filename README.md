@@ -39,9 +39,26 @@ I'm a licensed **Electronics Engineer and Technician** with over **8 years of ex
 
 Here are some of the things I've been working on:
 
-- ⚡ **[Automation Scripts](#)** – Python scripts to automate Excel reports, email alerts, and ticket handling  
-- 🌐 **[Web Portals](#)** – Internal PHP-based web apps to streamline NOC processes  
-- 📊 **[Data Dashboards](#)** – Visualized network health KPIs and incident trends using Python and Excel  
+### 🔹 1. Report Generator
+I created a web-based report generation tool that enables users to create reports requested by stakeholders with ease. Its primary purpose is to empower any team member to generate and send reports independently, eliminating the need to rely solely on a specific individual with specialized knowledge.
+
+![TD Report Generator](assets/td_report.png)
+
+![Rebates Report Generator](assets/rebates_report.png)
+
+![Inaccuracy Checker](assets/incomplete_details.png)
+
+### 🔹 2. Automation Scripts
+I designed and implemented Python automation scripts to streamline the generation of recurring reports. The solution replaced manual, time-consuming tasks, and reduced the average report preparation time from 50 minutes to just 5 minutes. This significantly improved efficiency, minimized human error, and allowed team members to focus on more strategic responsibilities.
+
+
+
+### 🔹 3. SMS Logs
+I designed and developed a front-end web interface to provide visibility into SMS notification activity. The system displays the number of SMS alerts sent per event type, tracks the frequency of events on a daily basis, and allows users to extract and view detailed SMS logs directly from the underlying database. This tool enhances operational monitoring, supports performance analysis, and enables faster incident auditing for the team.
+
+![SMS Logs Per ID](assets/sms_logs_per_id.png)
+
+![SMS Logs Date Range](assets/sms_logs_report.png)
 
 _✨ More coming soon – stay tuned!_
 
@@ -62,7 +79,7 @@ When I'm not coding, you’ll find me:
 
 Feel free to check out my repositories or connect with me:
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/michelle-pamin/])  
+- 🌐 LinkedIn: https://www.linkedin.com/in/michelle-pamin/  
 - 📨 Email: michelle.pamin@gmail.com
 
 
