@@ -60,13 +60,19 @@ I created a web-based report generation tool that enables users to create report
 I designed and implemented Python automation scripts to streamline the generation of recurring reports. The solution replaced manual, time-consuming tasks, and reduced the average report preparation time from 50 minutes to just 5 minutes. This significantly improved efficiency, minimized human error, and allowed team members to focus on more strategic responsibilities.
 
 
-
 ### 🔹 3. SMS Logs
 I designed and developed a front-end web interface to provide visibility into SMS notification activity. The system displays the number of SMS alerts sent per event type, tracks the frequency of events on a daily basis, and allows users to extract and view detailed SMS logs directly from the underlying database. This tool enhances operational monitoring, supports performance analysis, and enables faster incident auditing for the team.
 
 ![SMS Logs Per ID](assets/sms_logs_per_id.png)
 
 ![SMS Logs Date Range](assets/sms_logs_report.png)
+
+### 🔹 4. Form Data Validation Prompt System
+This is a front-end prompt system that alerts users when required fields in a form are left incomplete. This ensures that all critical data is provided before submission, maintaining the accuracy of reports and minimizing the risk of missing or incorrect information shared with clients.
+
+### 🔹 5. Ticket-Based Network Event Monitor
+This is a monitoring and alert tool that displays nodes associated with generated fault tickets, enabling the team to quickly identify outage areas and correlate them with incoming client calls.
+
 
 _✨ More coming soon – stay tuned!_
 
