@@ -14,9 +14,14 @@ I'm a licensed **Electronics Engineer and Technician** with over **8 years of ex
 
 ## 🧠 What I Do
 
-- 🔧 **Network Monitoring & Incident Response**  
-- 🌐 **Web Development** (PHP, HTML, CSS, JavaScript)  
+- 🌐 **Web Development** (PHP, HTML, CSS, JavaScript)
 - 🐍 **Python Automation & Data Analytics**  
+- 🚀 **DevOps Enthusiast** –  
+  - Version control with **Git & GitHub**  
+  - Server-side scripting on **Linux** environments  
+  - Exploring **CI/CD pipelines** with **Jenkins** and **GitHub Actions**  
+  - Containerization using **Docker** for easier deployment  
+- 🔧 **Network Monitoring & Incident Response**  
 - 📊 **KPI Reporting & Dashboard Creation**  
 - 🛠️ **Process Automation** (Excel macros, Python scripts, CRON jobs)
 
