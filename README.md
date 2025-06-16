@@ -14,16 +14,19 @@ I'm a licensed **Electronics Engineer and Technician** with over **8 years of ex
 
 ## 🧠 What I Do
 
-- 🌐 **Web Development** (PHP, HTML, CSS, JavaScript)
-- 🐍 **Python Automation & Data Analytics**  
+- 🌐 **Web Development** – PHP, HTML, CSS, JavaScript  
+- 🔧 **Network Monitoring & Incident Response** – 8+ years of experience as a NOC Engineer  
+- 🐍 **Python Automation & Data Analytics** – Streamlining workflows, report generation, and data processing  
+- 📊 **KPI Reporting & Dashboard Creation** – Excel and web-based dashboards for visibility and insights  
+- 🛠️ **Process Automation** – Automating tasks using CRON jobs, Excel macros, Python scripts  
 - 🚀 **DevOps Enthusiast** –  
-  - Version control with **Git & GitHub**  
-  - Server-side scripting on **Linux** environments  
-  - Exploring **CI/CD pipelines** with **Jenkins** and **GitHub Actions**  
-  - Containerization using **Docker** for easier deployment  
-- 🔧 **Network Monitoring & Incident Response**  
-- 📊 **KPI Reporting & Dashboard Creation**  
-- 🛠️ **Process Automation** (Excel macros, Python scripts, CRON jobs)
+  - 🔄 **Version Control** with Git & GitHub  
+  - 🐧 **Linux System Administration** – Shell scripting, CRON, service monitoring  
+  - ⚙️ **CI/CD Pipelines** – Exploring Jenkins, GitHub Actions for automated testing and deployment  
+  - 🐳 **Docker** – Building and deploying containerized applications  
+  - ☁️ **Cloud & Infrastructure** – Familiar with **Nginx**, **Apache**, and exploring **AWS** & **Azure** for hosting and automation  
+  - 📦 **Configuration Management** – Learning **Ansible** for infrastructure as code  
+
 
 ---
 
