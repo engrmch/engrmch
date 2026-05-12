@@ -14,7 +14,7 @@ I'm a licensed **Electronics Engineer and Technician** with over **8 years of ex
 
 ## 🧠 What I Do
 
-- 🌐 **Web Development** – PHP, HTML, CSS, JavaScript  
+- 🌐 **Web Development** – Angular, Python, C#, .NET, PHP, HTML, CSS, JavaScript  
 - 🔧 **Network Monitoring & Incident Response** – 8+ years of experience as a NOC Engineer  
 - 🐍 **Python Automation & Data Analytics** – Streamlining workflows, report generation, and data processing  
 - 📊 **KPI Reporting & Dashboard Creation** – Excel and web-based dashboards for visibility and insights  
