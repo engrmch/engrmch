@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Michelle Pamin
 
+💻 Passionate Developer | Automation Enthusiast | Data Explorer
 🎓 Licensed Electronics Engineer & Electronics Technician  
 🛠️ Experienced NOC Engineer (8+ years)  
-💻 Passionate Developer | Automation Enthusiast | Data Explorer
 
 ---
 
